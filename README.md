@@ -23,4 +23,4 @@ Lektoren: **Jonathan Schöps, Daniel Schöps**
 3. Je nach Desktop kannst du das Programm mit einem Doppelklick, alternativ auch mit _"$ love PBD.love"_ ausführen.
 
 ## Android:
-Du kannst das PBD-Programm auch auf Android ausführen. Bitte folge [dieser Anleitung](https://love2d.org/wiki/Getting_Started#Android)
+Du kannst das PBD-Programm auch auf Android ausführen. Bitte folge [dieser Anleitung].(https://love2d.org/wiki/Getting_Started#Android)
