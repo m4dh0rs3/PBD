@@ -9,3 +9,13 @@ Basierend auf dem Paper [***"Position Based Dynamics"***](https://matthias-resea
 Betreuer: **Lucas Völkel**
 
 Lektoren: **Jonathan Schöps, Daniel Schöps**
+
+## Windows:
+1. Lade den kompremierten Ordner _"PBD-Windows"_ herunter
+2. Schlüssle ihn auf mit 7-Zip oder RAR.
+3. Neben den DLL-Bibliotheken ist die Anwendungsdatei _"PBD"_ vorhanden. Wen du bereits das Framework LÖVE2D instaliert hast, dann kanst du auch die Datei mit dem Suffix _".love"_ ausführen.
+
+## Linux:
+1. Instaliere das LÖVE2D Package. Dazu gibt es auf [LÖVE2D.ORG](https://love2d.org) mehr informationen
+2. Lade dir die Datei _"PBD.love"_ herunter.
+3. Je nach Desktp kannst du das Programm mit einem Doppelklick, alternativ auch mit _"$ love PBD.love"_ ausführen.
