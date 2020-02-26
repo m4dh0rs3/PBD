@@ -20,4 +20,4 @@ Lektoren: **Jonathan Schöps, Daniel Schöps**
 ## Linux:
 1. Instaliere das LÖVE2D Package. Dazu gibt es auf [LÖVE2D.ORG](https://love2d.org) mehr informationen
 2. Lade dir die Datei _"PBD.love"_ herunter.
-3. Je nach Desktp kannst du das Programm mit einem Doppelklick, alternativ auch mit _"$ love PBD.love"_ ausführen.
+3. Je nach Desktop kannst du das Programm mit einem Doppelklick, alternativ auch mit _"$ love PBD.love"_ ausführen.
