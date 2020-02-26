@@ -1,6 +1,8 @@
 # PBD
 *„Constraints are as fundemental in game physics, as shaders are in computer graphics“* - **Erin Catto**
 
+![](Cover.png)
+
 Der Quellcode und Programm zur Facharbeit  ***"Physik basierte Animation".***
 verfasst von **Benedikt Schöps** _(@m4dh0rs3)_, abgegeben am 28.02.2020 am **Clara-Wieck-Gymnasium Zwickau.**
 
