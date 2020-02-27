@@ -14,7 +14,7 @@ Lektoren: **Jonathan Schöps, Daniel Schöps**
 
 ## Windows:
 1. Lade den kompremierten Ordner _"PBD-Windows"_ herunter
-2. Schlüssle ihn auf mit 7-Zip oder RAR.
+2. Schlüssle ihn mit 7-Zip oder RAR auf.
 3. Neben den DLL-Bibliotheken ist die Anwendungsdatei _"PBD"_ vorhanden. Wen du bereits das Framework LÖVE2D instaliert hast, dann kanst du auch die Datei mit dem Suffix _".love"_ ausführen.
 
 ## Linux:
@@ -23,4 +23,4 @@ Lektoren: **Jonathan Schöps, Daniel Schöps**
 3. Je nach Desktop kannst du das Programm mit einem Doppelklick, alternativ auch mit $ love PBD.love ausführen.
 
 ## Android:
-Du kannst das PBD-Programm auch auf Android ausführen. Bitte folge [dieser Anleitung].(https://love2d.org/wiki/Getting_Started#Android)
+Du kannst das PBD-Programm auch auf Android ausführen. Bitte folge [dieser Anleitung](https://love2d.org/wiki/Getting_Started#Android).
