@@ -5,8 +5,9 @@
 
 ## Facharbeit
 
-Der Quellcode und Programm zur Facharbeit  ***"Positionsbedingte Dynamiken".***
-verfasst von **Benedikt Schöps** _(@m4dh0rs3)_, abgegeben am 28.02.2020 am **Clara-Wieck-Gymnasium Zwickau.**
+Der Quellcode und Programm zur Facharbeit  ***"Positionsbedingte Dynamiken"***.
+Verfasst von **Benedikt Schöps** _(@m4dh0rs3)_.
+Abgegeben am 28.02.2020 am **Clara-Wieck-Gymnasium Zwickau.**
 
 Basierend auf dem Paper [***"Position Based Dynamics"***](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf) von u.A. **Matthias Müller**
 
