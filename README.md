@@ -15,6 +15,8 @@ Basierend auf dem Paper [***"Position Based Dynamics"***](https://matthias-resea
 
 - Lektoren: **Jonathan Schöps, Daniel Schöps**
 
+**Um das Repository herunterzuladen, gehe auf "Clone or Download" und "Download ZIP"**
+
 ## Bedinung
 - Nach dem Starten des Programmes kannst du mit der **Linken Maustaste Massepunkte erschaffen**. 
 Du kannst damit auch ein Massepunkt bewegen.
