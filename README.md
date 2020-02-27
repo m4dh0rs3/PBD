@@ -31,7 +31,7 @@ Veränderst du dann die Position eines Massepunktes, werden verbundene Zwangsbed
 
 - Mit **Q** kannst du eine Box erschaffen.
 - Mit **T** kannst du ein Dreieck erschaffen.
-- Mit **s** speicherst du das aktuelle System in Kurzform in der Zwichenablage ab.
+- Mit **S** speicherst du das aktuelle System in Kurzform in der Zwichenablage ab.
 
 
 
