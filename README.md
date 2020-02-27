@@ -18,6 +18,9 @@ Basierend auf dem Paper [***"Position Based Dynamics"***](https://matthias-resea
 **Um das Repository herunterzuladen, gehe auf "Clone or Download" und "Download ZIP"**
 
 ## Bedinung
+**Bitte beachte: Das ist eine Demonstration. Es ist kein vollwertiges, mächtiges Programm. 
+Wenn ewentuell eine Vollversion veröffentlicht wird, dann auf /PBD-Editor**
+
 - Nach dem Starten des Programmes kannst du mit der **Linken Maustaste Massepunkte erschaffen**. 
 Du kannst damit auch ein Massepunkt bewegen.
 
