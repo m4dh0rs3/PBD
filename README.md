@@ -40,7 +40,7 @@ Veränderst du dann die Position eines Massepunktes, werden verbundene Zwangsbed
 
 
 
-## Instalation
+## Installation
 ### Windows:
 1. Lade den kompremierten Ordner _"PBD-Windows"_ herunter
 2. Schlüssle ihn mit 7-Zip oder RAR auf.
